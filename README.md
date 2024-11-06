@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Dhruv Kanetkar
-dkanetkar@ucsd.edu
+Dhruv Kanetkar and Ish Patel
