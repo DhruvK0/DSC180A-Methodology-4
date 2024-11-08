@@ -1,4 +1,14 @@
-﻿commit d6d784effbf69e4a2dc5c99432be6bd0ad3d8870
+﻿commit 422bb485e86a4dab56b575f57c339d4fc9338199
+Author: ish patel <ispatel@ucsd.edu>
+Date:   Fri Nov 8 01:09:11 2024 -0800
+
+    anther attempt to fix logtxt
+
+diff --git a/log.txt b/log.txt
+index d56ff86..aba7396 100644
+Binary files a/log.txt and b/log.txt differ
+
+commit d6d784effbf69e4a2dc5c99432be6bd0ad3d8870
 Author: ish patel <ispatel@ucsd.edu>
 Date:   Thu Nov 7 13:41:56 2024 -0800
 
